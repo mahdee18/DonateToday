@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+.header{
+    background: url(/images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    padding: 200px 0px;
+    color: white;
+    text-align: center;
+}
+.header h1{
+    font-size: 65px;
+    font-weight: 700;
+    margin-left: 300px;
+    width: 750px;
+
+}
+.header p{
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+.primary-btn{
+    padding: 16px 20px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    background: #FF5959;
+    border-radius: 5px;
+
+}
+.donate-today{
+    text-align: center;
+    padding-top: 120px;
+    
+
+}
+.donate-today h1{
+    padding-bottom: 20px;
+    font-size: 54px;
+    font-weight: 700;
+}
+.donate-today p{
+    font-weight: 400;
+    color: #707070;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+.donate-btn{
+    
+
+}
+.btn-design{
+    padding: 40px 40px;
+    border: none;
+    color: #707070;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 20px;
+    border-radius: 5px;
+}
+.btn-design:hover{
+    color: #FF5959;
+    border: 2px solid #FF5959;
+    transition: all linear .5s;
+}
+.donate-today h4{
+    padding-top: 50px;
+    margin-bottom: 10px;
+    
+}
+.donate-today hr{
+    max-width:80% ;
+    margin: 0 auto;
+    background-color: red;
+}
+.pt-50{
+    margin-top: 50px;
+}
